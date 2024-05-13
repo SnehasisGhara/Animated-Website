@@ -29,7 +29,9 @@ This is an animated website showcasing a creative studio's work and services. Th
 * **Locomotive Scroll**
 * **GSAP** 
 
- 
+##Video 
+
+https://github.com/SnehasisGhara/Animated-Website/assets/127956592/ae7d2324-b9b4-4640-8a2d-4f4152f237ec
 
 
 
